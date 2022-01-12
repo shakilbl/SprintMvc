@@ -44,4 +44,8 @@ public class AddController {
 	public void bugfix() {
 		System.out.println("Bug fixed");
 	}
+
+	public void feature1() {
+		System.out.println("This is feature1");
+	}
 }
