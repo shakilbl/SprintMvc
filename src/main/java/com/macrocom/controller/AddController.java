@@ -48,4 +48,8 @@ public class AddController {
 	public void feature1() {
 		System.out.println("This is feature1");
 	}
+
+	public void feature2() {
+		System.out.println("Feature2");
+	}
 }
