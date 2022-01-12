@@ -40,4 +40,8 @@ public class AddController {
 		
 		return mv;
 	}
+
+	public void bugfix() {
+		System.out.println("Bug fixed");
+	}
 }
